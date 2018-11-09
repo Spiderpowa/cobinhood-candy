@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "candy-bot": "github:CheshireCatNick/cobinbot",
     "puppeteer": "^1.10.0"
   }
 }
